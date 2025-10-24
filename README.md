@@ -1,4 +1,4 @@
-![bartek8b 's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bartek8b &theme=dark&hide_border=true)
+![bartek8b 's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bartek8b&theme=dark&hide_border=true)
 
 <!--
 **bartek8b/bartek8b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
