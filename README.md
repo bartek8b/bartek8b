@@ -1,6 +1,6 @@
 ![bartek8b's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bartek8b&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bartek8b&theme=blueberry&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bartek8b&theme=blueberry&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <!--
 **bartek8b/bartek8b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
