@@ -2,9 +2,10 @@
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
-![JS](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <br>
+![JS](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NPN](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
+<br>
 ![XUBUNTU](https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu)
 ![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 <br>
