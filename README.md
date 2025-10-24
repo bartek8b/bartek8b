@@ -1,11 +1,13 @@
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
-![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
-![Static Badge](https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu)
-![Static Badge](https://img.shields.io/badge/github%20copilot-%23000000?style=for-the-badge&logo=githubcopilot)
-![Static Badge](https://img.shields.io/badge/googleanalytics-%23FFB71B?style=for-the-badge&logo=googleanalytics)
-![Static Badge](https://img.shields.io/badge/gimp-%238C8073?style=for-the-badge&logo=gimp&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
+![JS](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
+![NPN](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
+![XUBUNTU](https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu)
+![GHCIPILOT](https://img.shields.io/badge/gh%20copilot-%23000000?style=for-the-badge&logo=githubcopilot)
+<br>
+![GA](https://img.shields.io/badge/googleanalytics-%23FFB71B?style=for-the-badge&logo=googleanalytics)
+![GIMP](https://img.shields.io/badge/gimp-%238C8073?style=for-the-badge&logo=gimp&logoColor=black)
 
 
 
