@@ -6,10 +6,11 @@
 <br>
 ![NPN](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
 ![XUBUNTU](https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu)
-![GHCIPILOT](https://img.shields.io/badge/gh%20copilot-%23000000?style=for-the-badge&logo=githubcopilot)
+![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 <br>
 ![GA](https://img.shields.io/badge/googleanalytics-%23FFB71B?style=for-the-badge&logo=googleanalytics)
 ![GIMP](https://img.shields.io/badge/gimp-%238C8073?style=for-the-badge&logo=gimp&logoColor=black)
+![GHCIPILOT](https://img.shields.io/badge/gh%20copilot-%23000000?style=for-the-badge&logo=githubcopilot)
 
 </div>
 
