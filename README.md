@@ -7,7 +7,7 @@
 ![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GA](https://img.shields.io/badge/googleanalytics-%23FFB71B?style=for-the-badge&logo=googleanalytics)
 ![GIMP](https://img.shields.io/badge/gimp-%238C8073?style=for-the-badge&logo=gimp&logoColor=black)
-![JEST](https://img.shields.io/badge/jest-%007DD7?style=for-the-badge&logo=jest)
+![GA](https://img.shields.io/badge/googleanalytics-%23FFB71B?style=for-the-badge&logo=googleanalytics)
 
 
 </div>
