@@ -3,12 +3,10 @@
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<br/>
 ![NPN](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
 ![JEST](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest)
 ![WEBPACK](https://img.shields.io/badge/webpack-%234A90E2?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-<br/>
 ![XUBUNTU](https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu)
 ![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GA](https://img.shields.io/badge/googleanalytics-%23FFB71B?style=for-the-badge&logo=googleanalytics)
