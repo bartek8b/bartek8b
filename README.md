@@ -1,4 +1,4 @@
-![ODIN](https://img.shields.io/badge/Student-brown?style=for-the-badge&logo=theodinproject&logoColor=white&label=The%20Odin%20Project&labelColor=%23A9792B)
+![ODIN](https://img.shields.io/badge/Grateful%20Student-brown?style=for-the-badge&logo=theodinproject&logoColor=white&label=The%20Odin%20Project's&labelColor=%23A9792B) ➡️ [TOP](https://www.theodinproject.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartek8b&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
