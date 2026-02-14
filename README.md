@@ -2,8 +2,6 @@
 
 🔗 [TOP](https://www.theodinproject.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartek8b&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
