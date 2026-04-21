@@ -14,6 +14,8 @@
 ![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GA](https://img.shields.io/badge/googleanalytics-%23FFB71B?style=for-the-badge&logo=googleanalytics)
 
+<img src="https://github-toplang-stats.vercel.app/api/stats?username=bartek8b" />
+
 <!--
 **bartek8b/bartek8b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
